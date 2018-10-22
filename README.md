@@ -6,6 +6,12 @@
 ![Singularity Container available](https://img.shields.io/badge/singularity-available-7E4C74.svg)
 
 **This is still work in practice, but will hopefully soon be a stable version that will then be published in a release version.**
+** instruction on how to run exoseq on Hyper Gator 
+*ml singularity 
+*ml git 
+*ml gatk 
+
+
 ## Introduction
 
 **nfcore/ExoSeq** is a bioinformatics analysis pipeline that performs best-practice analysis pipeline for Exome Sequencing data.
